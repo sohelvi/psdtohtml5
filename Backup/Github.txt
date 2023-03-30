@@ -1,0 +1,38 @@
+
+> Login git hub in defult browser
+
+> Repository Name = Project Name
+
+> Go to Project folder right click open bash
+
+---------------  Type Command ------------
+
+
+git init
+
+git add *
+
+git commit -m "init"
+
+git remote add origin https://github.com/sohelvi/psdtohtml5.git
+
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
